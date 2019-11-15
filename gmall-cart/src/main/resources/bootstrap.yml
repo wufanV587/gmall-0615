@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cart-service
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: 9a9db9a7-d0fd-46e0-913c-bcb022018618
+
